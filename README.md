@@ -1,2 +1,2 @@
 # CaOSIS2025
-Data CaOSIS Angkatan 2024
+Data CaOSIS Angkatan 2025
